@@ -1,0 +1,14 @@
+C:\Users\2024102060039\Documents\ProvaPoo\servicos\servicos\bin\Debug\net8.0\servicos.exe
+C:\Users\2024102060039\Documents\ProvaPoo\servicos\servicos\bin\Debug\net8.0\servicos.deps.json
+C:\Users\2024102060039\Documents\ProvaPoo\servicos\servicos\bin\Debug\net8.0\servicos.runtimeconfig.json
+C:\Users\2024102060039\Documents\ProvaPoo\servicos\servicos\bin\Debug\net8.0\servicos.dll
+C:\Users\2024102060039\Documents\ProvaPoo\servicos\servicos\bin\Debug\net8.0\servicos.pdb
+C:\Users\2024102060039\Documents\ProvaPoo\servicos\servicos\obj\Debug\net8.0\servicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2024102060039\Documents\ProvaPoo\servicos\servicos\obj\Debug\net8.0\servicos.AssemblyInfoInputs.cache
+C:\Users\2024102060039\Documents\ProvaPoo\servicos\servicos\obj\Debug\net8.0\servicos.AssemblyInfo.cs
+C:\Users\2024102060039\Documents\ProvaPoo\servicos\servicos\obj\Debug\net8.0\servicos.csproj.CoreCompileInputs.cache
+C:\Users\2024102060039\Documents\ProvaPoo\servicos\servicos\obj\Debug\net8.0\servicos.dll
+C:\Users\2024102060039\Documents\ProvaPoo\servicos\servicos\obj\Debug\net8.0\refint\servicos.dll
+C:\Users\2024102060039\Documents\ProvaPoo\servicos\servicos\obj\Debug\net8.0\servicos.pdb
+C:\Users\2024102060039\Documents\ProvaPoo\servicos\servicos\obj\Debug\net8.0\servicos.genruntimeconfig.cache
+C:\Users\2024102060039\Documents\ProvaPoo\servicos\servicos\obj\Debug\net8.0\ref\servicos.dll
